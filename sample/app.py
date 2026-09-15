@@ -1,1 +1,2 @@
 print("hiuhuo")
+print("hiii")
